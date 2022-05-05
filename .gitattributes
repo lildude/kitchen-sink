@@ -1,2 +1,2 @@
 # Testing overrides etc
-*.svg linguist-detectable
+#*.svg linguist-detectable
