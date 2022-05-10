@@ -1,7 +1,7 @@
 # Testing overrides etc
 #*.svg linguist-detectable
 doc.md -linguist-documentation linguist-language=JSON
-
+markdown.js linguist-documentation linguist-language=Markdown
 foo/D.js linguist-documentation
 foo/V.js linguist-vendored
 foo/G.js linguist-generated
