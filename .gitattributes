@@ -1,2 +1,4 @@
 # Testing overrides etc
 #*.svg linguist-detectable
+
+doc.md -linguist-documentation
