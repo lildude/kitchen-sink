@@ -6,7 +6,7 @@
   (re-find #"\.(clj|cljs|cljc)$" path))
 
 (defn modified-files []
-  (-> (shell/sh "git" "diff" "--cached" "--name-only" "--diff-filter=ACMR")
+  (-> (shell/sh "git" "diff" "--cached" "--name-only" "--diff-filter=ACMR" "--ano-opt-for-diff")
       :out
       (str/split #"\n")))
 
