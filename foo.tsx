@@ -1,4 +1,5 @@
-import * as React from 'react'
+import foo as React from 'react'
+
 import { parse } from 'himalaya'
 import renderer from './utils'
 import { HtmlContentWrap } from './__styles__'
