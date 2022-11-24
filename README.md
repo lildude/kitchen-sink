@@ -50,3 +50,14 @@ sudo systemctl enable docker.service
 npm run local:down
 npm run local
 ```
+
+And using `shell` gives:
+
+```shell
+sudo systemctl start docker.service
+sudo systemctl enable docker.service
+npm run local:down
+npm run local
+```
+
+Which is also how Atom and VSCode highlight things.
