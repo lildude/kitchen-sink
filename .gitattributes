@@ -5,4 +5,4 @@ markdown.js linguist-documentation linguist-language=Markdown
 foo/D.js linguist-documentation
 foo/V.js linguist-vendored
 foo/G.js linguist-generated
-*.tscn linguist-language=INI
+*.tscn linguist-language=gdscript
