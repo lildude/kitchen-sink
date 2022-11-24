@@ -1,8 +1,6 @@
 # kitchen-sink
 Repo used for testing things on GitHub as customer would see it
 
-Common complaint: this looks terrible...
-
 ```console
 user@machine $ echo $FOO
 bar
