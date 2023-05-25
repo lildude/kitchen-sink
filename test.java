@@ -6,8 +6,9 @@ record Range(int lo, int hi) {
     }
 }
 
-sealed interface Celestial 
-    permits Planet, Star, Comet { ... }
+sealed interface A permits B, C {
+
+}
 
 final class Planet implements Celestial { ... }
 final class Star   implements Celestial { ... }
