@@ -62,7 +62,6 @@ npm run local
 
 Which is also how Atom and VSCode highlight things.
 
-Some line of text for a subsequent PR to remove.
 
 | h1 | h2 | h3 |
 |----|----|----|
