@@ -1,6 +1,6 @@
 ply
 format ascii 1.0
-comment : MagicaVoxel @ Ephtracy foo
+comment : MagicaVoxel @ Ephtracy foobar
 element vertex 9328
 property float x
 property float y
