@@ -7,3 +7,4 @@ foo/V.js linguist-vendored
 foo/G.js linguist-generated
 *.tscn linguist-language=GDScript
 *.tres linguist-language=GDScript
+*.ply linguist-generated
