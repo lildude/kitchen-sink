@@ -72,3 +72,4 @@ SSH signed commit
 Ano commit
 foo
 SSH signed with GIT env var
+SSH signed without GIT env var
