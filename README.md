@@ -73,3 +73,4 @@ Ano commit
 foo
 SSH signed with GIT env var
 SSH signed without GIT env var
+GPG signed with GIT env vars
